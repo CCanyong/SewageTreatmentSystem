@@ -1,4 +1,4 @@
-package com.server.pojo;
+package com.sewage.pojo;
 
 public class Pool {
 	
